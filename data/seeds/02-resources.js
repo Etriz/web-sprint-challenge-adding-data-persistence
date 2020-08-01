@@ -9,6 +9,7 @@ exports.seed = function (knex) {
         { id: 2, resource_name: "phone booth", resource_description: "" },
         { id: 3, resource_name: "computer", resource_description: "" },
         { id: 4, resource_name: "costume", resource_description: "as outrageous as possible" },
+        { id: 5, resource_name: "red crayon", resource_description: "must be red" },
       ]);
     });
 };
